@@ -1,0 +1,38 @@
+_repo: Etruscan-Tomb-Paintings-Their-Subjects-and-Significance_62431
+_version: 0.0.1
+alternative_title: Etruskiske gravmæler. English
+contributor:
+  translator:
+    agent_name: Andersen, Ingeborg
+    birthdate: 1887
+    deathdate: 1960
+    gutenberg_agent_id: '33260'
+    url: http://www.gutenberg.org/2009/agents/33260
+    wikipedia: https://da.wikipedia.org/wiki/Ingeborg_Andersen
+creator:
+  author:
+    agent_name: Poulsen, Frederik
+    alias: Poulsen, Poul Frederik Sigfred
+    birthdate: 1876
+    deathdate: 1950
+    gutenberg_agent_id: '51939'
+    url: http://www.gutenberg.org/2009/agents/51939
+    wikipedia: https://da.wikipedia.org/wiki/Frederik_Poulsen
+description: ''
+gutenberg_issued: '2020-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62431'
+  lccn: '22015499'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tombs -- Italy -- Etruria'
+- !lcsh 'Mural painting and decoration, Etruscan'
+- !lcsh 'Art, Etruscan'
+- !lcc 'ND'
+- GITenberg
+title: Etruscan Tomb Paintings, Their Subjects and Significance
+url: http://www.gutenberg.org/ebooks/62431
