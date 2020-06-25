@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '33260'
     url: http://www.gutenberg.org/2009/agents/33260
     wikipedia: https://da.wikipedia.org/wiki/Ingeborg_Andersen
+covers:
+- cover_type: archival
+  image_path: 62431-h/images/cover.jpg
 creator:
   author:
     agent_name: Poulsen, Frederik
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51939
     wikipedia: https://da.wikipedia.org/wiki/Frederik_Poulsen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62431#Etruscan-Tomb-Paintings-Their-Subjects-and-Significance
 gutenberg_issued: '2020-06-19'
 gutenberg_type: Text
 identifiers:
